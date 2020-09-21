@@ -5,5 +5,5 @@ These are errors you’re likely to get when you make a typo,
 or you’re first starting to learn Python.
 """
 
-msg = "Welcome to the ShapeAI developer community
-print msg
+msg = "Welcome to the ShapeAI developer community"
+print (msg)
